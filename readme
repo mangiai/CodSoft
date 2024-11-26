@@ -1,4 +1,4 @@
-Machine Learning Internship Projects at CodSoft
+**Machine Learning Internship Projects at CodSoft**
 This document describes three machine learning projects I completed during a virtual internship at CodSoft. These projects showcase various techniques for data analysis, model building, and evaluation using popular Python libraries like Pandas, NumPy, Scikit-learn (Sklearn), Matplotlib, Seaborn, scikit-plot (for ROC Curves), and more.
 
 1. Movie Genre Classification
